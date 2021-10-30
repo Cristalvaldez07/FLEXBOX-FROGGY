@@ -48,3 +48,15 @@ Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acept
 Las dos propiedades flex-direction y flex-wrap son usadas a menudo en conjunto con la propiedad abreviada flex-flow, la cual fue creada para combinarlas. Esta propiedad abreviada, acepta un valor de cada una separada por un espacio.
 
 Por ejemplo, puedes usar flex-flow para establecer filas y envolverlas.
+
+## LEVEL 21
+
+Puedes usar align-content para establecer como múltiples líneas están separadas una de otra. Esta propiedad acepta los siguientes valores:
+
+- flex-start: Las líneas se posicionan en la parte superior del contenedor.
+- flex-end: Las líneas se posicionan en la parte inferior del contenedor.
+- center: Las líneas se posicionan en el centro (verticalmente hablando) del contenedor.
+- space-between: Las líneas se muestran con la misma distancia entre ellas.
+- space-around: Las líneas se muestran con la misma separación alrededor de ellas.
+- stretch: Las líneas se estiran para ajustarse al contenedor.
+- Esto puede ser confuso, pero align-content determina el espacio entre las líneas, mientras que align-items determina como los elementos en su conjunto están alineados dentro del contenedor. Cuando hay solo una línea, align-content no tiene efecto.
