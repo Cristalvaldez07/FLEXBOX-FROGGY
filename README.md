@@ -35,3 +35,9 @@ Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acept
 - A veces, invertir el orden de una fila o columna de un contenedor no es suficiente. En esos casos, nosotros podemos aplicar la propiedad order a elementos individuales. Por defecto, los elementos tienen un valor 0, pero nosotros podemos usar esta propiedad para establecerlo a un número entero positivo o negativo.
 
 - Usa la propiedad order para reordenar las ranas de acuerdo a sus hojas de lirio.
+
+## Flex-wrap, la cual acepta los siguientes valores:
+
+- nowrap: Cada elemento se ajusta en una sola línea.
+- wrap: los elementos se envuelven alrededor de líneas adicionales.
+- wrap-reverse: Los elementos se envuelven alrededor - de líneas adicionales en reversa.
