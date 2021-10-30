@@ -41,3 +41,10 @@ Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acept
 - nowrap: Cada elemento se ajusta en una sola línea.
 - wrap: los elementos se envuelven alrededor de líneas adicionales.
 - wrap-reverse: Los elementos se envuelven alrededor - de líneas adicionales en reversa.
+
+
+## LEVEL 20
+
+Las dos propiedades flex-direction y flex-wrap son usadas a menudo en conjunto con la propiedad abreviada flex-flow, la cual fue creada para combinarlas. Esta propiedad abreviada, acepta un valor de cada una separada por un espacio.
+
+Por ejemplo, puedes usar flex-flow para establecer filas y envolverlas.
