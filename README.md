@@ -10,7 +10,7 @@
 - Por ejemplo, justify-content: flex-end; moverá a la derecha.
 
 
-## LEVEL 5
+## LEVEL 5,6 y 7
 
 Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acepta los siguientes valores:
 
@@ -19,3 +19,13 @@ Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acept
 - center: Alinea elementos en el centro (verticalmente hablando) del contenedor.
 - baseline: Muestra elementos en la línea base del contenedor
 - stretch: Elementos se estiran para ajustarse al contenedor.
+
+## Level 8
+
+- Flex-direction:
+ Esta propiedad CSS define la dirección de los elementos en el contenedor, y acepta los siguientes valores:
+
+- row: Elementos son colocados en la misma dirección del texto.
+- row-reverse: Elementos son colocados en la dirección opuesta al texto.
+- column: Elementos se colocan de arriba hacia abajo.
+- column-reverse: Elementos se colocan de abajo hacia arriba.
