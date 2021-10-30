@@ -29,3 +29,9 @@ Ahora usa align-items. Esta propiedad CSS alinea elementos verticalmente y acept
 - row-reverse: Elementos son colocados en la dirección opuesta al texto.
 - column: Elementos se colocan de arriba hacia abajo.
 - column-reverse: Elementos se colocan de abajo hacia arriba.
+
+## LEVEL 14 AND OTHERS.
+
+- A veces, invertir el orden de una fila o columna de un contenedor no es suficiente. En esos casos, nosotros podemos aplicar la propiedad order a elementos individuales. Por defecto, los elementos tienen un valor 0, pero nosotros podemos usar esta propiedad para establecerlo a un número entero positivo o negativo.
+
+- Usa la propiedad order para reordenar las ranas de acuerdo a sus hojas de lirio.
